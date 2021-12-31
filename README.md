@@ -7,3 +7,5 @@ Altmetric score is an indicator of how impactful and influential, a particular p
 Altmetric score can help researchers understand where and why a piece of research is being discussed and shared, both among other scholars and in the public sphere.
 
 For e.g., they can see how a particular paper is being covered in the news, blogs and Twitter.
+
+https://chrome.google.com/webstore/detail/altmetric-for-pubmed-and/moognpmgdkhdnljndnbbfahhajjhjjac?hl=en
