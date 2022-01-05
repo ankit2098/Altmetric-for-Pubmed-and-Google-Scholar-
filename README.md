@@ -8,4 +8,4 @@ Altmetric score can help researchers understand where and why a piece of researc
 
 For e.g., they can see how a particular paper is being covered in the news, blogs and Twitter.
 
-https://chrome.google.com/webstore/detail/altmetric-for-pubmed-and/moognpmgdkhdnljndnbbfahhajjhjjac?hl=en
+
